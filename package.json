@@ -1,0 +1,34 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Blockchain Todo List Powered by Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tb960/Dapp-TodoList.git"
+  },
+  "keywords": [],
+  "author": "boonkhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tb960/Dapp-TodoList/issues"
+  },
+  "homepage": "https://github.com/tb960/Dapp-TodoList#readme",
+  "devDependencies": {
+    "bootstrap":"4.1.3",
+    "chai": "^4.1.2",
+    "chai-as-promised":"7.1.1",
+    "chai-bignumber":"^2.0.2",
+    "lite-server":"^2.3.0",
+    "nodemon":"2.0.13",
+    "truffle":"5.4.14",
+    "truffle-contract":"4.0.31"
+  }
+}

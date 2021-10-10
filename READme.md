@@ -57,3 +57,7 @@ set up front end of the application
 
     
 
+- small change in latest dapp todolist,
+- we need to add the web3 library by using node, fist need to run npm install web3
+- then we need to add the script in html to web3
+- then we need to change the load accounts by using getAccounts() function
